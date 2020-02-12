@@ -5,8 +5,6 @@ def parrot(Pretty bird)
   puts "Squawk!"
   'Squawk!'
   return "Squawk!"
-  puts "Pretty bird!"
-  'Pretty bird!'
-  return "Pretty bird!"
+
 end
 
