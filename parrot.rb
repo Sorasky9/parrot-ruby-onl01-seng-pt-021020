@@ -10,5 +10,5 @@ end
 def parrot(bird="Pretty bird")
   puts "#{bird}!"
   
-  return "#{bird}!"
+  return "#{bird}"
 end
