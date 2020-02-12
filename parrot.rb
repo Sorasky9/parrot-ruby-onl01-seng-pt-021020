@@ -7,8 +7,3 @@ def parrot
   return "Squawk!"
 end
 
-def parrot(Pretty bird!)
-  puts "Squawk!"
-  'Squawk!'
-  return "Squawk!"
-end
